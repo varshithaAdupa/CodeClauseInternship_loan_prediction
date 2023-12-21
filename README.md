@@ -1,4 +1,4 @@
-##CodeClauseInternship_loan_prediction
+## CodeClauseInternship_loan_prediction
 
 This project aims to predict whether a loan application will be approved or not using historical loan application data.
 
